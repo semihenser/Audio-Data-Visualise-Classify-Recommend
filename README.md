@@ -1,4 +1,4 @@
-# Audio-Data-Visualise-Classify-Recommend
+# Audio Data Visualise Classify Recommend
 This is my digital signal processing term project.(Python3)
 
 My steps:
