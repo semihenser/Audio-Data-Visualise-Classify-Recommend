@@ -7,3 +7,5 @@ My steps:
 2) Music classification
 
 3) Similar music recommendation
+
+DATA:https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification?select=Data
